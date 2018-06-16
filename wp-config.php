@@ -89,6 +89,3 @@ if ( !defined('ABSPATH') )
 require_once(ABSPATH . 'wp-settings.php');
 
 
-
-define('WP_HOME','http://rgrvisual-com-br.umbler.net/');
-define('WP_SITEURL','http://rgrvisual-com-br.umbler.net/');
